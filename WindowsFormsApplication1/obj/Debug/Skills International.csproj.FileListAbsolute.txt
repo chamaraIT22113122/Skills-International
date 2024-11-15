@@ -1,0 +1,23 @@
+C:\Users\Dewmi\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Dewmi\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Skills International.csprojResolveAssemblyReference.cache
+C:\Users\Dewmi\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Dewmi\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Dewmi\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Dewmi\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Skills International.csproj.GenerateResource.Cache
+C:\Users\Dewmi\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Dewmi\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Dewmi\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Dewmi\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Dewmi\Desktop\Skills International\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Dewmi\Desktop\Skills International\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Dewmi\Desktop\Skills International\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Dewmi\Desktop\Skills International\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Dewmi\Desktop\Skills International\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Dewmi\Desktop\Skills International\WindowsFormsApplication1\obj\Debug\Skills International.csprojResolveAssemblyReference.cache
+C:\Users\Dewmi\Desktop\Skills International\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Dewmi\Desktop\Skills International\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Dewmi\Desktop\Skills International\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Dewmi\Desktop\Skills International\WindowsFormsApplication1\obj\Debug\Skills International.csproj.GenerateResource.Cache
+C:\Users\Dewmi\Desktop\New folder (5)\Skills International\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Dewmi\Desktop\New folder (5)\Skills International\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Dewmi\Desktop\New folder (5)\Skills International\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
